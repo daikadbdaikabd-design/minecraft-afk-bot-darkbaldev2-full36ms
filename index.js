@@ -6,8 +6,8 @@ let afkInterval
 let chatInterval
 
 const config = {
-  host: "darkblademc.joinmc.world",
-  port: 20674,
+  host: "curiousgeorge.mcsh.io",
+  port: 11187,
   username: "_HuuThien_",
   version: "1.20.1",
   password: "bot123"
